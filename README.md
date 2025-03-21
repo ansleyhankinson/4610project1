@@ -6,11 +6,11 @@ NCAA Football
 **Team Members and Names**
 
 Group 5
-- Gisel Hernandez
-- Ansley Hankinson
-- Lukas Cornish
-- Malhar Sethia
-- Samuel White
+@giselhernandezv
+@ansleyhankinson
+@Lukas.cornish@gmail.com
+@MalharSethia
+@Wykyyd
 
 Problem Description
 -
